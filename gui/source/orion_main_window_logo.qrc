@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="logo1">
+    <file>kk_logo1_101x51px.png</file>
+    <file>kk_logo1.png</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>kk_bg.png</file>
+  </qresource>
+</RCC>

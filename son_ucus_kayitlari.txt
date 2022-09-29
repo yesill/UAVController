@@ -1,0 +1,32 @@
+12:27:44 -> Baglanti kuruldu -> 192.168.43.86:10000
+12:27:56 -> Asama3 baslatildi. renk: kırmızı
+12:27:56 -> kalkis yapiliyor.
+12:28:03 -> kalkis basarili. irtifa: 2.96
+12:28:07 -> Asama3 start ROI gerceklestirildi.
+12:28:07 -> Asama3 konumuna (40.2328811, 29.0090434, 3m) gidiliyor.
+12:28:13 -> Asama3 konumuna gidildi
+12:28:16 -> Asama3 balon ROI gerceklestirildi.
+12:28:45 -> kalkis noktasina donuluyor
+12:28:45 -> RTL ROI gerceklestirildi.
+12:28:45 -> Kalkis konumuna (40.2327853, 29.009095, 3m) gidiliyor.
+12:28:45 -> asama3 gerceklestirildi
+12:28:50 -> kalkis noktasina donuldu
+12:28:53 -> Asama2 baslatildi.
+12:28:57 -> Asama2 start ROI gerceklestirildi.
+12:28:57 -> Asama2 konumuna (40.2327853, 29.009046, 3m) gidiliyor.
+12:29:00 -> Asama2 konumuna gidildi.
+12:29:03 -> Asama2 ROI gerceklestirildi.
+12:29:20 -> Asama3 baslatildi. renk: kırmızı
+12:29:20 -> asama2 basariyla gerceklestirildi
+12:29:24 -> Asama3 start ROI gerceklestirildi.
+12:29:24 -> Asama3 konumuna (40.2328811, 29.0090434, 3m) gidiliyor.
+12:29:30 -> Asama3 konumuna gidildi
+12:29:33 -> Asama3 balon ROI gerceklestirildi.
+12:30:04 -> kalkis noktasina donuluyor
+12:30:04 -> RTL ROI gerceklestirildi.
+12:30:04 -> Kalkis konumuna (40.2327853, 29.009095, 3m) gidiliyor.
+12:30:04 -> asama3 gerceklestirildi
+12:30:09 -> kalkis noktasina donuldu
+12:30:19 -> inis yapiliyor
+12:30:26 -> Inis yapildi
+12:30:32 -> baglanti kesildi
